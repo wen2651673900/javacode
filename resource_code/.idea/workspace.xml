@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d8e94ff-28ad-47a0-8abf-75bdfc4b5bcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Java\maven\mavenWork" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="C:\Java\maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rTHXfREdw5fBWbhH64eZEMuqKz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springssm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bigbosspalysystem" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="大富翁游戏系统" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.joseph">
+    <configuration name="DBUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBUtils" />
+      <module name="resource_code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.SingleLinkedList" />
+      <module name="resource_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inandout.RandomAccessFile.demo02" />
+      <module name="resource_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inandout.RandomAccessFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joseph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.joseph" />
+      <module name="resource_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.DoubleLinkedList.test" />
+      <module name="resource_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.DoubleLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.joseph" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.SingleLinkedList" />
+        <item itemvalue="Application.demo02" />
+        <item itemvalue="Application.DBUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d8e94ff-28ad-47a0-8abf-75bdfc4b5bcb" name="Default Changelist" comment="" />
+      <created>1618993200915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618993200915</updated>
+      <workItem from="1618993204432" duration="5297000" />
+      <workItem from="1619061875301" duration="23905000" />
+      <workItem from="1619231214735" duration="7324000" />
+      <workItem from="1619325778821" duration="4444000" />
+      <workItem from="1619437550202" duration="9525000" />
+      <workItem from="1619510108990" duration="7046000" />
+      <workItem from="1619689958470" duration="634000" />
+      <workItem from="1619945612963" duration="494000" />
+      <workItem from="1620205283266" duration="36043000" />
+      <workItem from="1620731051349" duration="8488000" />
+      <workItem from="1626919923011" duration="4783000" />
+      <workItem from="1627024950592" duration="2618000" />
+      <workItem from="1627258320938" duration="1622000" />
+      <workItem from="1627692296444" duration="613000" />
+      <workItem from="1628741129207" duration="626000" />
+      <workItem from="1629967045429" duration="1611000" />
+      <workItem from="1630229163725" duration="6142000" />
+      <workItem from="1630374644603" duration="3911000" />
+      <workItem from="1630383993176" duration="19900000" />
+      <workItem from="1630899231617" duration="899000" />
+      <workItem from="1630935619716" duration="4121000" />
+      <workItem from="1631086447705" duration="8307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626921687157">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="771" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1626921687157" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1630940573274">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1630940573274" />
+    <state x="430" y="207" width="421" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1630231193249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="207" width="421" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1630231193249" />
+    <state x="396" y="47" key="#xdebugger.evaluate" timestamp="1630295290296">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="47" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1630295290296" />
+    <state x="346" y="84" key="FileChooserDialogImpl" timestamp="1631153463163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="346" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631153463163" />
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom" timestamp="1631153464613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631153464613" />
+    <state width="1237" height="151" key="GridCell.Tab.0.center" timestamp="1631153464613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631153464613" />
+    <state width="1237" height="151" key="GridCell.Tab.0.left" timestamp="1631153464613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631153464613" />
+    <state width="1237" height="151" key="GridCell.Tab.0.right" timestamp="1631153464613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631153464613" />
+    <state width="1237" height="151" key="GridCell.Tab.1.bottom" timestamp="1631153464614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631153464614" />
+    <state width="1237" height="151" key="GridCell.Tab.1.center" timestamp="1631153464613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631153464613" />
+    <state width="1237" height="151" key="GridCell.Tab.1.left" timestamp="1631153464613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631153464613" />
+    <state width="1237" height="151" key="GridCell.Tab.1.right" timestamp="1631153464614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631153464614" />
+    <state x="131" y="0" key="SettingsEditor" timestamp="1630998329454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="131" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1630998329454" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1630935618689">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1630935618689" />
+    <state x="308" y="187" width="713" height="482" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1630573937269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="308" y="187" width="713" height="482" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.680@0.0.1280.680" timestamp="1630573937269" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1630231058149">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1630231058149" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1630939965437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1630939965437" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javase/oop/bigbosspalysystem/User.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

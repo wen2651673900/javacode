@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="find"/>
+	<classpathentry kind="src" path="javase"/>
+	<classpathentry kind="src" path="JDBC"/>
+	<classpathentry kind="src" path="newOj"/>
+	<classpathentry kind="src" path="sort"/>
+	<classpathentry kind="output" path="out/production/resource_code"/>
+</classpath>

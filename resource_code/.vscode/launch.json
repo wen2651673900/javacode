@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "exceptions.demo",
+            "projectName": "resource_code"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo01",
+            "request": "launch",
+            "mainClass": "Lambda.demo01",
+            "projectName": "resource_code"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo02",
+            "request": "launch",
+            "mainClass": "inandout.RandomAccessFile.demo02",
+            "projectName": "resource_code"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleLinkedList",
+            "request": "launch",
+            "mainClass": "DataStructure.LinkedList.SingleLinkedList",
+            "projectName": "resource_code"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo02",
+            "request": "launch",
+            "mainClass": "inandout.RandomAccessFile.demo02",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo01",
+            "request": "launch",
+            "mainClass": "inandout.RandomAccessFile.demo01",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo01",
+            "request": "launch",
+            "mainClass": "inandout.file.demo01",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch oj1250",
+            "request": "launch",
+            "mainClass": "oj1250",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch twofind",
+            "request": "launch",
+            "mainClass": "twofind",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch quick",
+            "request": "launch",
+            "mainClass": "quick",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch marge",
+            "request": "launch",
+            "mainClass": "marge",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "bigbosspalysystem.Main",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch 多态",
+            "request": "launch",
+            "mainClass": "多态",
+            "projectName": "resource_code_bd212604"
+        },
+        {
+            "type": "java",
+            "name": "Launch 接口",
+            "request": "launch",
+            "mainClass": "接口",
+            "projectName": "resource_code_bd212604"
+        }
+    ]
+}
